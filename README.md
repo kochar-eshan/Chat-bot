@@ -27,5 +27,13 @@ An **interactive chatbot** built with **React.js** that can respond to user quer
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kochar-eshan/react-chatbot.git
+git clone https://github.com/kochar-eshan/react-Chat-bot.git
 cd react-chatbot
+```
+2. **Install Packages**
+```bash
+npm install
+```
+3. **Run the Project**
+```bash
+npm run dev
