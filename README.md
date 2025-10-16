@@ -18,7 +18,6 @@ An **interactive chatbot** built with **React.js** that can respond to user quer
 ## **Technologies Used**
 
 - **Front-end:** React.js, JavaScript, HTML, CSS  
-- **Optional Back-end Integration:** Node.js, Express.js  
 - **State Management:** React hooks  
 - **Randomization & Date Handling:** JavaScript built-in functions  
 
